@@ -1,1 +1,1 @@
-# android-animated-vector-drawable-sample
+# Android Animated vector drawable sample
