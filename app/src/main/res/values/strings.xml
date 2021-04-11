@@ -1,0 +1,9 @@
+<resources>
+
+    <string name="app_name">Animated vector drawable test</string>
+
+    <string name="hello_animation">Hello Animation!</string>
+
+    <string name="button_start">start</string>
+
+</resources>
